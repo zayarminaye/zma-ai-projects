@@ -1,3 +1,3 @@
 # zma-ai-projects
 
-Hello, This is sample commit.
+Hello, This is sample first commit.
